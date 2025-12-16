@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋, my name is Chaeeun Yu
 
-<!--
+## About me
+I’m from South Korea 🇰🇷, currently living in Seoul.
+Lately, I’ve been focusing on UX/UI design and iOS development.
 **cosmostrex/cosmostrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
